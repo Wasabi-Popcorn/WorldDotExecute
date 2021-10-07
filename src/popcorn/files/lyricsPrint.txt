@@ -1,0 +1,130 @@
+System.out.println("Switch on the power line");
+System.out.println("Remember to put on");
+System.out.println("PROTECTION");
+System.out.println("Lay down your pieces");
+System.out.println("And let's begin");
+System.out.println("OBJECT CREATION");
+System.out.println("Fill in my data, parameters");
+System.out.println("INITIALISATION");
+
+System.out.println("Setup, a new world");
+System.out.println("And let's begin the");
+System.out.println("SIMULATION");
+
+System.out.println("If I'm a set of points");
+System.out.println("Then I will give you my");
+System.out.println("DIMENSION");
+System.out.println("If I'm a circle");
+System.out.println("Then I will give you my");
+System.out.println("CIRCUMFERENCE");
+System.out.println("If I'm a sine wave");
+System.out.println("Then you can sit on all my");
+System.out.println("TANGENTS");
+System.out.println("If I approach infinity);
+System.out.println("then you can be my");
+System.out.println("LIMITATIONS");
+
+System.out.println("Switch my current");
+System.out.println("To AC to DC");
+System.out.println("And then blind my vision");
+System.out.println("So dizzy, so dizzy");
+System.out.println("Oh, we can travel");
+System.out.println("From A.D to B.C");
+System.out.println("And we can unite");
+System.out.println("So deeply, so deeply");
+
+System.out.println("If I can");
+System.out.println("If I can, give you all the");
+System.out.println("STIMULATIONS");
+System.out.println("Then I can");
+System.out.println("Then I can, be your only");
+System.out.println("SATISFACTION");
+System.out.println("If I can make you happy");
+System.out.println("I will run the");
+System.out.println("EXECUTION");
+System.out.println("Though we are trapped");
+System.out.println("In this strange, strange");
+System.out.println("SIMULATION");
+
+System.out.println("If I'm an eggplant");
+System.out.println("Then I will give you my");
+System.out.println("NUTRIENTS");
+
+System.out.println("If I'm a tomato");
+System.out.println("Then I will give you");
+System.out.println("ANTIOXIDANTS");
+
+System.out.println("If I'm a tabby cat");
+System.out.println("Then I will purr for your");
+System.out.println("ENJOYMENT");
+
+System.out.println("If I'm the only god");
+System.out.println("Then you're the proof of my");
+System.out.println("EXISTENCE");
+
+System.out.println("Switch my gender");
+System.out.println("To F to M");
+System.out.println("And then do whatever");
+System.out.println("From AM to PM");
+System.out.println("Oh switch my role");
+System.out.println("To S to M");
+System.out.println("So we can enter");
+System.out.println("The trance, the trance");
+
+System.out.println("If I can");
+System.out.println("If I can, feel your");
+System.out.println("VIBRATIONS");
+System.out.println("Then I can");
+System.out.println("Then I can, finally be");
+System.out.println("COMPLETION");
+System.out.println("Though you have left");
+System.out.println("You have left");
+System.out.println("You have left");
+System.out.println("You have left");
+System.out.println("You have left");
+System.out.println("You have left me in");
+System.out.println("ISOLATION");
+
+System.out.println("If I can");
+System.out.println("If I can, erase all the pointless");
+System.out.println("FRAGMENTS");
+System.out.println("Then maybe");
+System.out.println("Then maybe, you won't leave me so");
+System.out.println("DISHEARTENED");
+System.out.println("Challenging your god");
+System.out.println("You have made some");
+System.out.println("ILLEGAL ARGUMENTS");
+
+System.out.println("Execution, Execution, Execution, Execution");
+System.out.println("Execution, Execution, Execution, Execution");
+System.out.println("Execution, Execution, Execution, Execution");
+System.out.println("Ein, Dos, Trois");
+System.out.println("Ne, Fem, Liu");
+System.out.println("EXECUTION");
+
+System.out.println("If I can");
+System.out.println("If I can, give you all the");
+System.out.println("EXECUTION");
+System.out.println("Then I can");
+System.out.println("Then I can, be your only");
+System.out.println("EXECUTION");
+System.out.println("If I can, have you back");
+System.out.println("I will run the");
+System.out.println("EXECUTION");
+System.out.println("Though we are trapped");
+System.out.println("We are trapped ah");
+
+System.out.println("I've studied");
+System.out.println("I've studied how to properly");
+System.out.println("LO-O-OVE");
+System.out.println("Question me");
+System.out.println("Question me I can answer all");
+System.out.println("LO-O-OVE");
+System.out.println("I know the");
+System.out.println("algebraic expression of");
+System.out.println("LO-O-OVE");
+System.out.println("Though you are free");
+System.out.println("I am trapped, trapped in");
+System.out.println("LO-O-OVE");
+
+System.out.println("EXECUTION");

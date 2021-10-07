@@ -1,0 +1,174 @@
+package goddrinksjava;
+2
+3     /**
+4     * The program GodDrinksJava implements an application that
+5     * creates an empty simulated world with no meaning or purpose.
+6     * @author momocashew
+7     */
+8     public class GodDrinksJava {
+9         public static void main(Strings[] args) {
+10          Thing me = new Lovable("Me", 0, true, -1, false);
+11          Thing you = new Lovable("You", 0, false, -1, false);
+12
+13          World world = new World(5);
+14          world.addThing(me);
+15          world.addThing(you);
+16          world.startSimulation();
+17
+18          if (me instanceof PointSet) {
+19              you.addAttribute(me.getDimensions().toAttribute());
+20              me.resetDimensions();
+21          }
+22
+23          if (me instanceof Circle) {
+24              you.addAttribute(me.getCircumference().toAttribute());
+25              me.resetCircumference();
+26          }
+27
+28          if (me instanceof SineWave) {
+29              you.addAction("sit", me.getTangent(you.getXPosition()));
+30          }
+31
+32          if (me instanceof Sequence) {
+33              me.setLimit(you.toLimit());
+34          }
+35
+36          me.toggleCurrent();
+37
+38          me.canSee(false);
+39
+40          me.addFeeling("dizzy");
+41
+42          world.timeTravelForTwo("AD", 617, me, you);
+43
+44          world.timeTravelForTwo("BC", 3691, me, you);
+45
+46          world.unite(me, you);
+47
+48          if (me.getNumStimulationsAvailable() >= you.getNumSimulationsNeeded()) {
+49              you.setSatisfaction(me.toSatisfaction());
+50          }
+51
+52          if (you.getFeelingIndex("happy") != -1) {
+53              me.requestExecution(world);
+54          }
+55
+56          world.lockThing(me);
+57
+58          world.lockThing(you);
+59
+60          if (me instanceof Eggplant) {
+61              you.addAttribute(me.getNutrients().toAttribute());
+62              me.resetNutrients();
+63          }
+64
+65          if (me instanceof Tomato) {
+66              you.addAttribute(me.getAntioxidants().toAttribute());
+67              me.resetAntioxidants();
+68          }
+69
+70          if (me instanceof TabbyCat) {
+71              me.purr();
+72          }
+73
+74          if (world.getGod().equals(me)) {
+75              me.setProof(you.toProof());
+76          }
+77
+78          me.toggleGender();
+79
+80          world.procreate(me, you);
+81
+82          me.toggleRoleBDSM();
+83
+84          world.makeHigh(me);
+85
+86          world.makeHigh(you);
+87
+88          if (me.getSenseIndex("vibration")) {
+89              me.addFeeling("complete");
+90          }
+91
+92          world.unlock(you);
+93          world.removeThing(you);
+94
+95          me.lookFor(you, world);
+96
+97          me.lookFor(you, world);
+98
+99          me.lookFor(you, world);
+100
+101        me.lookFor(you, world);
+102
+103        me.lookFor(you, world);
+104
+105        if (me.getMemory().isErasable()) {
+106            me.removeFeeling("disheartened");
+107        }
+108
+109        try {
+110            me.setOpinion(me.getOpinionIndex("you are here"), false);
+111        }
+112        catch (IllegalArgumentException e) {
+113            world.announce("God is always true.");
+114        }
+115
+116        world.runExecution();
+117
+118        world.runExecution();
+119
+120        world.runExecution();
+121
+122        world.runExecution();
+123
+124        world.runExecution();
+125
+126        world.runExecution();
+127
+128        world.runExecution();
+129
+130        world.runExecution();
+131
+132        world.runExecution();
+133
+134        world.runExecution();
+135
+136        world.runExecution();
+137
+138        world.runExecution();
+139
+140        world.announce("1", "de");
+141
+142        world.announce("2", "es");
+143
+144        world.announce("3",  "fr");
+145
+146        world.announce("4", "kr");
+147
+148        world.announce("5", "se");
+149
+150        world.announce("6", "cn");
+151
+152        world.runExecution();
+153
+154        if (world.isExecutableBy(me)) {
+155            you.setExecution(me.toExecution());
+156        }
+157
+158        if (world.getThingIndex(you) != -1) {
+159            world.runExecution();
+160        }
+161
+162        me.escape(world);
+163
+164        me.learnTopic("love");
+165        me.takeExamTopic("love");
+166        me.getAlgebraExpression("love");
+167        me.escape("love");
+168
+169
+170
+171
+172        world.execute(me);
+173    }
+174 }
